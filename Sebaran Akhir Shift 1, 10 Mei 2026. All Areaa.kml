@@ -1,0 +1,2646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sebaran Akhir Shift 1, 10 Mei 2026. All Area.kml</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<Schema name="SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026" id="S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+		<SimpleField type="string" name="Unit">
+			<displayName>&lt;b&gt;Unit&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="double" name="Longitude">
+			<displayName>&lt;b&gt;Longitude&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="double" name="Latitude">
+			<displayName>&lt;b&gt;Latitude&lt;/b&gt;</displayName>
+		</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Unit</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Unit]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Longitude]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Latitude]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Unit</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Unit]</td></tr>
+  <tr><td><b>Longitude</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Longitude]</td></tr>
+  <tr><td><b>Latitude</b></td><td>$[SEBARAN WS AKHIR SHIFT 1 TANGGAL 10 MEI 2026/Latitude]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style10">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style12">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>PIK,DT,325,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">PIK,DT,325,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24051</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214487,-1.240514835000002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>PIK,DT,318,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">PIK,DT,318,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24053</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214526,-1.240531269999983,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>PIK,DT,303,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">PIK,DT,303,NJ</SimpleData>
+				<SimpleData name="Longitude">109.222</SimpleData>
+				<SimpleData name="Latitude">-1.24065</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2215166,-1.24064548499998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>PIK,DT,305,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">PIK,DT,305,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24056</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214905,-1.240556220000009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>PIK,DT,348,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">PIK,DT,348,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24052</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2213742,-1.240515391000008,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,071,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,071,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24061</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214596,-1.240608798000002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,065,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,065,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24062</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214759,-1.240624376999993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,076,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,076,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24062</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214444,-1.240623822999987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,078,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,078,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24055</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214085,-1.240546851999993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,073,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,073,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24057</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214796,-1.240565507999998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,068,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,068,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24066</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214225,-1.240664890999987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,066,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,066,NJ</SimpleData>
+				<SimpleData name="Longitude">109.222</SimpleData>
+				<SimpleData name="Latitude">-1.24063</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.221509,-1.240626810000014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,074,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,074,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24055</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214712,-1.240546405999996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,072,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,072,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24056</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2213989,-1.240556515000013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,067,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,067,NJ</SimpleData>
+				<SimpleData name="Longitude">109.222</SimpleData>
+				<SimpleData name="Latitude">-1.24068</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2215012,-1.240683531999991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,075,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,075,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24051</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214443,-1.240506528999994,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,077,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,077,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24068</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2213813,-1.24068182900001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,070,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,070,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24057</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214168,-1.240572829000004,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,069,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,069,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.2406</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214966,-1.240595151999992,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,031,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,031,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24064</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214803,-1.240644722999997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,039,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,039,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24062</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.22141,-1.240622210999993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,006,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,006,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.2406</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2213999,-1.240602335000007,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BSS,DT,005,NJ</name>
+		<styleUrl>#pointStyleMap</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffffff</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_SEBARAN_WS_AKHIR_SHIFT_1_TANGGAL_10_MEI_2026_SDD">
+				<SimpleData name="Unit">BSS,DT,005,NJ</SimpleData>
+				<SimpleData name="Longitude">109.221</SimpleData>
+				<SimpleData name="Latitude">-1.24059</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>109.2214075,-1.240590370000016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder>
+		<name>260510 S1 AKHIR</name>
+		<open>1</open>
+		<Placemark>
+			<name>BSS,DT,012,BD</name>
+			<TimeStamp><when>2026-05-10T16:29:14+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231688272388,-1.24285963156368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,021,DT</name>
+			<TimeStamp><when>2026-05-10T11:05:36+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231750930919,-1.24303647481527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,036,BD</name>
+			<TimeStamp><when>2026-05-10T16:29:28+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231654162904,-1.24284434259562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,047,BD</name>
+			<TimeStamp><when>2026-05-10T11:10:34+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231664230735,-1.24295960779304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,048,BD</name>
+			<TimeStamp><when>2026-05-10T11:06:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231750930919,-1.24303647481527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,052,BD</name>
+			<TimeStamp><when>2026-05-10T11:07:35+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231705608347,-1.24327669853571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,054,BD</name>
+			<TimeStamp><when>2026-05-10T11:12:18+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23133898179,-1.24301331542881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DT,057,BD</name>
+			<TimeStamp><when>2026-05-10T11:09:59+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231670981179,-1.24306477130555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,002,BD</name>
+			<TimeStamp><when>2026-05-10T15:54:13+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241440941782,-1.24157301791191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,003,BD</name>
+			<TimeStamp><when>2026-05-10T10:45:37+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233797536729,-1.24213832735357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,006,BD</name>
+			<TimeStamp><when>2026-05-10T10:44:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233889031338,-1.24221217936637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,010,BD</name>
+			<TimeStamp><when>2026-05-10T11:11:40+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231515507464,-1.24293811048382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,012,BD</name>
+			<TimeStamp><when>2026-05-10T11:13:11+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231276425971,-1.2430379932226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,016,BD</name>
+			<TimeStamp><when>2026-05-10T11:16:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231051351202,-1.24295805031767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,017,BD</name>
+			<TimeStamp><when>2026-05-10T11:08:47+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231643872791,-1.24341507514327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,019,BD</name>
+			<TimeStamp><when>2026-05-10T11:12:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231283569571,-1.24305881970877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,003,BD</name>
+			<TimeStamp><when>2026-05-10T10:43:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.234361505703,-1.2423848524945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,004,BD</name>
+			<TimeStamp><when>2026-05-10T10:13:14+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241378624031,-1.24157923570047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,005,BD</name>
+			<TimeStamp><when>2026-05-10T11:15:22+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231091021273,-1.24301147997916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,007,BD</name>
+			<TimeStamp><when>2026-05-10T10:13:02+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241399570972,-1.24157154699725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,008,BD</name>
+			<TimeStamp><when>2026-05-10T10:11:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241498094154,-1.24154841061797,46.1553187654715</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,009,NR</name>
+			<TimeStamp><when>2026-05-10T11:07:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231668170525,-1.24328555475871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,011,BD</name>
+			<TimeStamp><when>2026-05-10T10:43:44+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.234332629637,-1.24237355354481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,012,BD</name>
+			<TimeStamp><when>2026-05-10T10:14:30+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241286912475,-1.24163985891965,48.1367747771531</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,017,BD</name>
+			<TimeStamp><when>2026-05-10T10:14:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241295530128,-1.24163606303236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,018,BD</name>
+			<TimeStamp><when>2026-05-10T11:13:54+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231313899803,-1.24302624679769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,021,BD</name>
+			<TimeStamp><when>2026-05-10T10:44:42+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233918698476,-1.24223213428769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,006,BD</name>
+			<TimeStamp><when>2026-05-10T11:08:02+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.231654376092,-1.24328792421371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,012,BD</name>
+			<TimeStamp><when>2026-05-10T10:42:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23520521271,-1.24225140083697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DT,002,BD</name>
+			<TimeStamp><when>2026-05-10T10:53:20+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232098637638,-1.24312306234014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DT,003,BD</name>
+			<TimeStamp><when>2026-05-10T11:01:06+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232243046176,-1.24343804737012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DT,009,BD</name>
+			<TimeStamp><when>2026-05-10T10:53:32+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232052286676,-1.24309203058664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DZ,117,BD</name>
+			<TimeStamp><when>2026-05-10T10:58:40+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232041467988,-1.24337820748722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DZ,221,BD</name>
+			<TimeStamp><when>2026-05-10T16:27:04+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232113532981,-1.24320315657754,11.6615297457621</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,501,BD</name>
+			<TimeStamp><when>2026-05-10T10:56:57+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232137198724,-1.24341663253825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,502,NR</name>
+			<TimeStamp><when>2026-05-10T11:01:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232376828316,-1.24333143971518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,506,BD</name>
+			<TimeStamp><when>2026-05-10T10:55:41+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232084307964,-1.24335977134042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,512,NR</name>
+			<TimeStamp><when>2026-05-10T11:02:24+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232393648762,-1.24328072280739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,518,BD</name>
+			<TimeStamp><when>2026-05-10T10:55:58+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232147467086,-1.24339186479124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,518,BD</name>
+			<TimeStamp><when>2026-05-10T16:24:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23203202083,-1.24340162187798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,519,BD</name>
+			<TimeStamp><when>2026-05-10T16:26:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23211356003,-1.24332078966713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,528,BD</name>
+			<TimeStamp><when>2026-05-10T10:59:24+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232045221668,-1.2434224768287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,804,BD</name>
+			<TimeStamp><when>2026-05-10T16:22:33+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232149514376,-1.24340719195269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,866,BD</name>
+			<TimeStamp><when>2026-05-10T10:57:40+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.232084373114,-1.2434491224991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,DT,214,BD</name>
+			<TimeStamp><when>2026-05-10T10:26:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240263523636,-1.24150880612549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,DT,219,BD</name>
+			<TimeStamp><when>2026-05-10T10:28:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240146109883,-1.24152583402567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,DT,220,BD</name>
+			<TimeStamp><when>2026-05-10T10:27:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240152604828,-1.24154386694102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAT,DT,002,NR</name>
+			<TimeStamp><when>2026-05-10T10:34:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23674281364,-1.24220734032213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAT,DT,003,NR</name>
+			<TimeStamp><when>2026-05-10T10:32:24+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236689647761,-1.24227164313313,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAT,DT,004,BD</name>
+			<TimeStamp><when>2026-05-10T10:41:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236312273398,-1.24213577608742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAT,DT,005,NR</name>
+			<TimeStamp><when>2026-05-10T10:38:14+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236926597609,-1.24202190307416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAT,DT,008,NR</name>
+			<TimeStamp><when>2026-05-10T15:50:09+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236339711273,-1.24215527526151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,304,BD</name>
+			<TimeStamp><when>2026-05-10T10:23:12+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240755289895,-1.2417723331612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,310,BD</name>
+			<TimeStamp><when>2026-05-10T10:25:28+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240573630255,-1.24178285977315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,314,BD</name>
+			<TimeStamp><when>2026-05-10T10:24:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240689226614,-1.24176126082662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,320,BD</name>
+			<TimeStamp><when>2026-05-10T10:24:23+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240653409662,-1.24177612241954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,330,BD</name>
+			<TimeStamp><when>2026-05-10T10:26:09+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240477678062,-1.24182723628886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,334,BD</name>
+			<TimeStamp><when>2026-05-10T10:23:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240752459964,-1.24180594912258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,347,BD</name>
+			<TimeStamp><when>2026-05-10T10:25:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240511433711,-1.24180349016238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DT,350,BD</name>
+			<TimeStamp><when>2026-05-10T15:49:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.24072136103,-1.24175959645315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,020,BD</name>
+			<TimeStamp><when>2026-05-10T10:49:05+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233289826636,-1.24364461818292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,021,BD</name>
+			<TimeStamp><when>2026-05-10T10:24:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240623237371,-1.24186853201961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,023,BD</name>
+			<TimeStamp><when>2026-05-10T10:17:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.24103526377,-1.24157038196309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,023,BD</name>
+			<TimeStamp><when>2026-05-10T10:17:22+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241033640136,-1.24143734876281,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,026,BD</name>
+			<TimeStamp><when>2026-05-10T10:15:52+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.24109852883,-1.24153361655888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,028,BD</name>
+			<TimeStamp><when>2026-05-10T10:19:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240736055633,-1.24159951097471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EB,020,BD</name>
+			<TimeStamp><when>2026-05-10T10:13:37+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241353745279,-1.24151495334286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EB,023,BD</name>
+			<TimeStamp><when>2026-05-10T10:18:32+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.24094197774,-1.24141691406993,52.11686962325889</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,002,BD</name>
+			<TimeStamp><when>2026-05-10T10:48:24+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233238020142,-1.24369174958639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,013,R,GW</name>
+			<TimeStamp><when>2026-05-10T15:12:08+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241408054152,-1.2156967007286,72.07011578595569</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,019,BD</name>
+			<TimeStamp><when>2026-05-10T10:19:27+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240813912871,-1.2415567076665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,028,BD</name>
+			<TimeStamp><when>2026-05-10T10:17:53+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241082359401,-1.24138671527054,51.1975674090338</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,030,BD</name>
+			<TimeStamp><when>2026-05-10T10:15:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241119651226,-1.24154589604702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,039,BD</name>
+			<TimeStamp><when>2026-05-10T10:48:41+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233290259627,-1.24365795851389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,046,BD</name>
+			<TimeStamp><when>2026-05-10T10:49:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233263571443,-1.24361493743501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,FT,101,BD</name>
+			<TimeStamp><when>2026-05-10T10:21:34+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240535821797,-1.24167009176133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR,400,BD</name>
+			<TimeStamp><when>2026-05-10T10:18:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.240879046866,-1.24142016659081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR,402,BD</name>
+			<TimeStamp><when>2026-05-10T14:59:18+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.227860820747,-1.21971914104871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR,403,BD</name>
+			<TimeStamp><when>2026-05-10T15:10:08+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.241463839237,-1.21580340291491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,WL,001,BD</name>
+			<TimeStamp><when>2026-05-10T10:48:05+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.233268301036,-1.24368057377257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,309,BD</name>
+			<TimeStamp><when>2026-05-10T10:35:46+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.23685421665,-1.24230705733679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,310,BD</name>
+			<TimeStamp><when>2026-05-10T10:35:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236803564969,-1.24233945463048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,312,BD</name>
+			<TimeStamp><when>2026-05-10T10:36:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236808772887,-1.24230536886547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,316,BD</name>
+			<TimeStamp><when>2026-05-10T10:33:37+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236754849718,-1.24229623746038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,321,NR</name>
+			<TimeStamp><when>2026-05-10T16:07:29+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236873555685,-1.24213979853716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,325,BD</name>
+			<TimeStamp><when>2026-05-10T10:35:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236786670134,-1.24230387829861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,328,BD</name>
+			<TimeStamp><when>2026-05-10T10:38:58+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236940468843,-1.24203133810412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DT,329,BD</name>
+			<TimeStamp><when>2026-05-10T10:34:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236759265238,-1.24233389437566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,DZ,005,BD</name>
+			<TimeStamp><when>2026-05-10T10:38:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236952551219,-1.2420528763433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,EX,014,NR</name>
+			<TimeStamp><when>2026-05-10T15:27:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.224590370533,-1.21258914470786,19.0864901512794</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,EX,016,BD</name>
+			<TimeStamp><when>2026-05-10T10:35:59+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236851764227,-1.24232870081076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,VR,225,BD</name>
+			<TimeStamp><when>2026-05-10T10:33:11+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236673180916,-1.24226272466246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWP,VR,256,NR</name>
+			<TimeStamp><when>2026-05-10T10:37:55+07:00</when>
+</TimeStamp>
+			<styleUrl>#style11</styleUrl>
+			<Point>
+				<coordinates>109.236923153226,-1.24201707148626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, DZ, 007,BD</name>
+			<TimeStamp><when>2026-05-10T07:36:28+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247835,-1.21082666666667,211.712005615234</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, DZ, 009,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:47:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.254585976085,-1.20775017443053,157.908966064453</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, DZ, 011,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:40:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.254024433924,-1.20763938793941,144.942138671875</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, DZ, 013,BD</name>
+			<TimeStamp><when>2026-05-10T08:07:19+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247720977344,-1.21821108896728,247.977584838867</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, DZ, 018,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:49:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245706545997,-1.21859029782671,228.714538574219</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, EX, 006,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:39:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.253946157274,-1.20890871223442,137.654708862305</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, EX, 010,Y</name>
+			<TimeStamp><when>2026-05-10T07:46:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.25531,-1.21090666666667,219.094757080078</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, EX, 022,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:26:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.24599593494,-1.19972279486831,21.2421932220459</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, VR, 010,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:03:21+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247216720708,-1.21832779710447,231.882202148438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS, VR, 011,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:02:32+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.24617803874,-1.21764470009092,209.087585449219</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERA, EX 5802,R, LT</name>
+			<TimeStamp><when>2026-05-10T08:00:57+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.248056845215,-1.21811510804322,247.982421875</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERA, EX, 5803,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:16:57+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246986475379,-1.22098067064767,238.887542724609</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERA, EX, 5805,R, LT</name>
+			<TimeStamp><when>2026-05-10T08:00:40+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247944822286,-1.21891493555505,246.72868347168</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERA, EX, 5806,R, LT</name>
+			<TimeStamp><when>2026-05-10T08:03:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247680261314,-1.21724972826487,242.479583740234</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KTU, TR 003,Y</name>
+			<TimeStamp><when>2026-05-10T09:07:16+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.229348549528,-1.22753652543349,141.030624389648</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KTU, TR, 006,R</name>
+			<TimeStamp><when>2026-05-10T09:07:42+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.225991017601,-1.23094846911754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KTU, TR, 007,R</name>
+			<TimeStamp><when>2026-05-10T09:07:30+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.228686341347,-1.22855774212281,150.634353637695</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KTU, TR,005,Y</name>
+			<TimeStamp><when>2026-05-10T09:06:46+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.229174025352,-1.22737540718901,144.404403686523</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP, WL, 801,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:00:20+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246777168136,-1.21838594003748,223.133087158203</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK EX, 037,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:40:52+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.255330166918,-1.20824184354515,184.480377197266</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 022,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:02:10+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246148398339,-1.2184889382469,226.403945922852</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 024,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:02:25+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245961374698,-1.21703409190679,201.05989074707</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 029,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:00:50+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247571942662,-1.21889539348574,238.354354858398</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 030,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:03:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245861835483,-1.21783121537731,199.574264526367</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 031,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:02:18+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245762241881,-1.21748312227174,191.158569335938</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 032,BD</name>
+			<TimeStamp><when>2026-05-10T07:15:43+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.244525,-1.22135166666666,210.521133422852</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, DZ, 033,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:41:42+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.255037465015,-1.20719746660764,175.418045043945</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EB, 009,BD</name>
+			<TimeStamp><when>2026-05-10T08:05:21+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247395641934,-1.21639605580512,236.682327270508</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EG, 006,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:21:59+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.244646100136,-1.21254207215697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EG, 007,BD</name>
+			<TimeStamp><when>2026-05-10T08:58:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.23244,-1.22549333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EG, 008,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:44:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.256099956293,-1.20723297889903,240.355926513672</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EG, 015,BD</name>
+			<TimeStamp><when>2026-05-10T07:49:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.254762940343,-1.21183204716437,233.984008789062</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EG, 021,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:56:41+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246092675291,-1.22153092411527,249.449462890625</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX 003,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:07:29+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.248157121281,-1.21777637847003,246.526031494141</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX 027,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:07:04+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.244552063832,-1.21344725035107,125.104377746582</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 012,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:00:13+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246720884097,-1.21995847608862,230.838119506836</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 013,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:23:08+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.238519668579,-1.21514630289041,113.40251159668</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 016,Y</name>
+			<TimeStamp><when>2026-05-10T07:20:29+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246336922047,-1.21058235535849,183.36750793457</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 018,Y</name>
+			<TimeStamp><when>2026-05-10T07:20:16+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246308729923,-1.21132123830485,192.776458740234</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 024,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:16:10+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247423518904,-1.22026819436773,236.028823852539</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 026,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:26:32+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246051302754,-1.19900205254696,11.2866516113281</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 032,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:40:43+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.254379834305,-1.20943792062274,147.802612304688</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 033,BD</name>
+			<TimeStamp><when>2026-05-10T07:44:27+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.25753,-1.20795,297.322082519531</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 034,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:30:14+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245924931058,-1.20134755827111,23.5627746582031</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 036,R, LT</name>
+			<TimeStamp><when>2026-05-10T08:00:33+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247861794025,-1.21961987527273,238.736358642578</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 038,BD</name>
+			<TimeStamp><when>2026-05-10T07:48:18+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.254833434125,-1.21164465306745,230.777374267578</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 044,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:01:19+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245343208313,-1.21836540115616,215.88688659668</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 045,R, GW</name>
+			<TimeStamp><when>2026-05-10T14:34:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246236067475,-1.21055471245846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 049,R, GW</name>
+			<TimeStamp><when>2026-05-10T09:15:17+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.22929868458,-1.22965985579858,184.416229248047</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX, 052,R, GW</name>
+			<TimeStamp><when>2026-05-10T09:03:05+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.226806563875,-1.23150628143641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, EX,044,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:49:35+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245598132972,-1.21883330843219,231.340072631836</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK, VR, 403,BD</name>
+			<TimeStamp><when>2026-05-10T08:23:50+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.240921168782,-1.21675757806296,84.6132431030273</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR, 402,BD</name>
+			<TimeStamp><when>2026-05-10T08:23:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.227643411047,-1.22003573049951,8.06769847869873</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI, EB, 205,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:05:11+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.247833037669,-1.21632972106778,231.641418457031</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI, VR, 251,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:02:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.246627640646,-1.21780450202862,223.947372436523</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI, VR, 253,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:20:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.244597025552,-1.21777982525106,179.879302978516</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI, VR, 257,R, GW</name>
+			<TimeStamp><when>2026-05-10T07:41:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.255576197932,-1.2098449280691,198.728500366211</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI, VR, 259,R, GW</name>
+			<TimeStamp><when>2026-05-10T08:49:53+07:00</when>
+</TimeStamp>
+			<styleUrl>#style10</styleUrl>
+			<Point>
+				<coordinates>109.245498586519,-1.21876644965342,230.877838134766</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,014,R</name>
+			<TimeStamp><when>2026-05-10T07:06:43+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.229690062686,-1.241784943863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,013,R,SC</name>
+			<TimeStamp><when>2026-05-10T07:16:17+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232166342141,-1.24262232700885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,016,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:30:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.225127065217,-1.2402636792836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,020,R,SC</name>
+			<TimeStamp><when>2026-05-10T07:04:16+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.228479125799,-1.24129667092685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,023,R</name>
+			<TimeStamp><when>2026-05-10T07:16:39+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232452542289,-1.24274456775693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,007,R</name>
+			<TimeStamp><when>2026-05-10T07:57:55+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232107663752,-1.24265146547218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,008,R</name>
+			<TimeStamp><when>2026-05-10T06:59:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.226673129596,-1.24153399166973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DZ,6220,R</name>
+			<TimeStamp><when>2026-05-10T07:49:27+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.24551690246,-1.23861819352538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5503,R</name>
+			<TimeStamp><when>2026-05-10T07:20:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232950584861,-1.24307480934572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5504,R</name>
+			<TimeStamp><when>2026-05-10T07:01:42+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227515164352,-1.24113154665204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5505,NR</name>
+			<TimeStamp><when>2026-05-10T14:35:20+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.226768923749,-1.24055623925472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5507,R</name>
+			<TimeStamp><when>2026-05-10T07:12:58+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.231944095162,-1.24251980300625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5509,R</name>
+			<TimeStamp><when>2026-05-10T14:43:47+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227180292487,-1.24076917694261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EB,5510,BD</name>
+			<TimeStamp><when>2026-05-10T14:37:03+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227582804253,-1.24094245705771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5502,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:52:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232389573715,-1.24149496831848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5513,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:04:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246240555503,-1.23757276360906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5515,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:03:28+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246001818576,-1.23791796132821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5516,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:04:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246318297364,-1.23743328728531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5517,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:06:10+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246411581257,-1.23729492125405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5520,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:03:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246063747186,-1.23780395411328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5521,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:04:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246157761639,-1.23769478194505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5522,R,LT</name>
+			<TimeStamp><when>2026-05-10T07:12:42+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.231853696825,-1.24258008518772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5523,R,LT</name>
+			<TimeStamp><when>2026-05-10T14:45:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.231976947306,-1.24247446262246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5524,R,LB</name>
+			<TimeStamp><when>2026-05-10T14:28:37+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.225080329119,-1.24025473039958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5525,BD</name>
+			<TimeStamp><when>2026-05-10T08:37:14+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.225246531696,-1.24030303316653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5526,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:03:02+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.245906067022,-1.23802662280409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,EX,5527,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:59:58+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.243055646428,-1.24014196800418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,GD,8707,R</name>
+			<TimeStamp><when>2026-05-10T15:02:39+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.245826869766,-1.23842766263952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,GD,8708,R</name>
+			<TimeStamp><when>2026-05-10T14:37:43+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227634415712,-1.2409714753249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,VR,9107,R</name>
+			<TimeStamp><when>2026-05-10T07:31:39+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.244586053656,-1.2392331623514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,VR,9108,R</name>
+			<TimeStamp><when>2026-05-10T07:26:50+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.241678397447,-1.24175480187965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,VR,9109,R</name>
+			<TimeStamp><when>2026-05-10T07:27:00+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.241694015683,-1.24174157826558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,035,R</name>
+			<TimeStamp><when>2026-05-10T15:06:33+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246827089992,-1.23720902562341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EB,011,R</name>
+			<TimeStamp><when>2026-05-10T07:02:22+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227276496352,-1.24107054061555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,ED,031,R</name>
+			<TimeStamp><when>2026-05-10T07:02:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.227437280845,-1.24093696854092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EG,022,R,SC</name>
+			<TimeStamp><when>2026-05-10T07:25:12+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.239979536668,-1.24175770855797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,014,R,LK</name>
+			<TimeStamp><when>2026-05-10T15:05:11+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.246824066283,-1.2374571541862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,035,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:57:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.240210560876,-1.24185879672888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,047,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:09:06+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.247026381513,-1.23659333632893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,048,R,SC</name>
+			<TimeStamp><when>2026-05-10T15:10:30+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.248582349408,-1.23691734107165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,050,R</name>
+			<TimeStamp><when>2026-05-10T14:49:54+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232494436512,-1.2427987404454,12.9445629119873</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,EX,051,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:52:36+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232524710636,-1.24289285388749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,LA,040,R,SC</name>
+			<TimeStamp><when>2026-05-10T14:32:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.226469695544,-1.24089080184428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR,401,R</name>
+			<TimeStamp><when>2026-05-10T14:53:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.232375759238,-1.2414593560282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,VR,404,R</name>
+			<TimeStamp><when>2026-05-10T07:03:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.228337083991,-1.24134542085364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI,VR,032,R</name>
+			<TimeStamp><when>2026-05-10T07:13:11+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.231687483541,-1.24248488519175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI,VR,255,R</name>
+			<TimeStamp><when>2026-05-10T07:09:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.230188764471,-1.24221766258052,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WWPI,VR,258,R</name>
+			<TimeStamp><when>2026-05-10T06:59:39+07:00</when>
+</TimeStamp>
+			<styleUrl>#style12</styleUrl>
+			<Point>
+				<coordinates>109.226786652926,-1.24201777544343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,004,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:21:41+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.223353333333,-1.24326942106412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,DZ,015,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:32:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.226048333333,-1.24366666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,EX,019,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:22:04+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.223351666667,-1.24325333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,003,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:16:06+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225633333333,-1.24323833333337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,005,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:14:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225901666667,-1.243605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,008,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:17:46+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.22536,-1.24425000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BSS,VR,009,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:38:12+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225143333333,-1.24453666666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HER,DZ,6222,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:35:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225596666667,-1.2443566666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,WL,802,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:38:30+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225148333333,-1.24452000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,WL,803,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:40:53+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.224931666667,-1.24409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LMP,WL,804,R,GW</name>
+			<TimeStamp><when>2026-05-10T07:35:22+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225598333333,-1.244395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,027,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:14:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.225901666667,-1.243605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIK,DZ,034,R,GW</name>
+			<TimeStamp><when>2026-05-10T14:18:22+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>109.22536,-1.24425333333334,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
